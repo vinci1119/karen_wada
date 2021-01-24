@@ -12,7 +12,7 @@
 }
 
 h1{
-	color:  #a6d3c8;
+	color:  #725889;
 	font-size: 3rem;
     text-align: center;
     font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
@@ -29,7 +29,7 @@ h1{
     padding: 15px 20px;
     font-size: 18px;/*フォントサイズ*/
     color: #FFF;/*フォントカラー*/
-    background: #a6d3c8;/*背景色*/
+    background: #725889;/*背景色*/
     font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
   }
   
