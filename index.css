@@ -1,0 +1,65 @@
+
+.wrapper {
+    width: 100%;
+    margin-bottom: 10px;
+    padding:2px;
+    
+    text-align: center;
+}
+
+.wrapper img {
+    width: 60%;
+}
+
+h1{
+	color:  #a6d3c8;
+	font-size: 3rem;
+    text-align: center;
+    font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+      
+  }
+  rt {
+    font-size: 0.5em; /* 文字サイズを大きく */
+  }  
+ 
+
+  .ribbon8 {
+    display: inline-block;
+    position: relative;
+    padding: 15px 20px;
+    font-size: 18px;/*フォントサイズ*/
+    color: #FFF;/*フォントカラー*/
+    background: #a6d3c8;/*背景色*/
+    font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+  }
+  
+  .ribbon8:before {
+    position: absolute;
+    content: '';
+    top: 100%;
+    left: 0;
+    border: none;
+    border-bottom: solid 15px transparent;
+    border-right: solid 20px rgb(149, 158, 155);/*折り返し部分*/
+  }
+  
+  .ribbon8:after {
+    position: absolute;
+    content: '';
+    top: 100%;
+    right: 0;
+    border: none;
+    border-bottom: solid 15px transparent;
+    border-left: solid 20px rgb(149, 158, 155);/*折り返し部分*/
+  }
+
+  .ar-text {
+    padding: 0 1rem;
+  }
+
+  .info{
+    font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+  }
+  body {
+    background-color: #e8e8e8;
+  }
